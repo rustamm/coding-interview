@@ -1,11 +1,8 @@
 package algorithms.lists;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * Created by Rustam Miftakhutdinov on 05.01.15.
- */
 public class GetKthToLastElementTest {
     @Test
     public void testFindKthToLastElement() throws Exception {
